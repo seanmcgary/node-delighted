@@ -1,11 +1,11 @@
 {
-  "name": "delighted",
+  "name": "node-delighted",
   "version": "0.0.1",
   "description": "NodeJS module for interacting with the Delighted API",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/seanmcgary/delighted.git"
+    "url": "github.com/seanmcgary/node-delighted.git"
   },
   "keywords": [
     "delighted",
@@ -15,7 +15,7 @@
   "author": "Sean McGary <sean@seanmcgary.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seanmcgary/delighted/issues"
+    "url": "https://github.com/seanmcgary/node-delighted/issues"
   },
   "dependencies": {
     "logsimple": "0.0.5",
